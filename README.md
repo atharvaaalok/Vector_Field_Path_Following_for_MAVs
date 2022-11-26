@@ -3,7 +3,7 @@
 ## Sliding Surfaces
 ### Straight Line Path Following
 ![](Figures/Straight_Line_Sliding_Surface_IC_Plots.png)
-<img src="Figures/Straight_Line_Sliding_Surface_IC_Plots.png" width="48">
+<img src="Figures/Straight_Line_Sliding_Surface_IC_Plots.png" width="200">
 
 ### Orbit Following
 ![](Figures/Orbit_Path_IC_plots.png)
