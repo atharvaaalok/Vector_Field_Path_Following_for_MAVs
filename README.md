@@ -3,9 +3,10 @@
 ## Sliding Surfaces
 ### Straight Line Path Following
 ![](Figures/Straight_Line_Sliding_Surface_IC_Plots.png)
+<img src="Figures/Straight_Line_Sliding_Surface_IC_Plots.png" width="48">
 
 ### Orbit Following
-![dfghjkhgfd](Figures/Orbit_Path_IC_plots.png)
+![](Figures/Orbit_Path_IC_plots.png)
 
 ## Improvements
 ### Changing Sliding Surface for Faster Convergence
